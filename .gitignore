@@ -1,0 +1,15 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Secrets
+.env
+
+# Generated Power BI export files
+data/powerbi_exports/*.tsv
+data/powerbi_exports/*.xlsx
