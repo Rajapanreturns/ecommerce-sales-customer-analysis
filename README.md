@@ -79,3 +79,16 @@ ecommerce-sales-customer-analysis/
 │
 ├── README.md
 └── .gitignore
+
+## Dashboard
+
+The Power BI dashboard includes:
+
+- KPI cards for overall business performance
+- Monthly sales and profit trends
+- Category and sub-category performance
+- Customer segment comparisons
+- Regional analysis
+- Discount band vs profitability analysis
+
+![Power BI Dashboard](dashboard/dashboard_screenshot.png)
