@@ -67,7 +67,9 @@ This project explores questions such as:
 
 ```text
 ecommerce-sales-customer-analysis/
-│
+|── Dashboard/
+│   ├── Dashboard_screenshot.png
+|
 ├── data/
 │   ├── raw/
 │   ├── cleaned/
@@ -90,5 +92,3 @@ The Power BI dashboard includes:
 - Customer segment comparisons
 - Regional analysis
 - Discount band vs profitability analysis
-
-![Power BI Dashboard](dashboard/dashboard_screenshot.png)
